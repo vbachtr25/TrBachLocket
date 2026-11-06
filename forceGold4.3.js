@@ -45,15 +45,15 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD NMS",
+            tag: "LOCKET GOLD TrBach",
             tag_gradient: true,
             tag_style: "gold_gradient",
             title: "Đã Kich Hoạt 💛",
             feature_set: [
                 {
-                    title: "Youtube @NightmarketServer ✨",
+                    title: "FaceBook Bangkhuang.deptrai ✨",
                     body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé 💛",
-                    imageURL: "https://i.postimg.cc/15BPkqNN/173376ce-0cb2-411c-80db-fe9adc931718.png"
+                    imageURL: "https://i.postimg.cc/SNkVsqrZ/17B29983-D9F1-41CB-9E35-1E71E51B3B06.png"
                 }
             ],
             primary_button_title: "Xong",
