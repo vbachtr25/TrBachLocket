@@ -37,8 +37,8 @@
     <key>PayloadDescription</key>
     <string>
 - Nâng cấp LocketGold.
-Phân phối bởi NightMarketServer
-Support: Tiến Sato | Config by: Tiến Sato
+Phân phối bởi VietBachTran
+Support: TrBach | Config by: TrBach
     </string>
 
     <key>PayloadIdentifier</key>
