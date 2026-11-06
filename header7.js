@@ -1,5 +1,5 @@
 /***********************************************
-> deleteHeader by NightmarketServer
+> deleteHeader by VietBachTran
 ***********************************************/
 
 const version = 'V1.0.2';
